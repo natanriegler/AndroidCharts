@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidCharts</string>
+    <string name="bar_chart">bar_chart</string>
+    <string name="pier_chart">pier_chart</string>
+    <string name="radar_chart">Radar chart</string>
+</resources>
